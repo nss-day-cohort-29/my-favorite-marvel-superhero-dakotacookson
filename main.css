@@ -1,0 +1,33 @@
+html{
+    background-image: url("smoke_abstraction_particles_structure_118225_3840x2160.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    display: block;
+    padding: 2em
+    
+    
+}
+img{
+height: auto;
+width: auto;
+box-shadow: 5px 5px  5px  5px ;
+justify-content: center;
+}
+header{
+    border-style: solid;
+    border-width: thin;
+    border-color: blue;
+    color: rgb(173, 0, 0);
+    font-size: 4em;
+    background-color: rgb(33, 2, 70);
+  
+}
+p{ 
+    border-style: solid;
+    border-width: thin;
+    border-color: blue;
+     color: rgb(173, 0, 0);
+    font-size: 2em;
+    background-color: rgb(33, 2, 70);
+  
+}
